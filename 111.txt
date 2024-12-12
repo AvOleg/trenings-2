@@ -1,5 +1,4 @@
 mgskgj
 change
-<<<<<<< HEAD
 2 change
 это изменение после откладывания
